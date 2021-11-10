@@ -1,0 +1,15 @@
+/Users/vinhngo/STSResource/STSStudy/Linq/bin/Debug/Linq.exe.config
+/Users/vinhngo/STSResource/STSStudy/Linq/bin/Debug/Linq.exe
+/Users/vinhngo/STSResource/STSStudy/Linq/bin/Debug/Linq.pdb
+/Users/vinhngo/STSResource/STSStudy/Linq/bin/Debug/EntityFramework.dll
+/Users/vinhngo/STSResource/STSStudy/Linq/bin/Debug/EntityFramework.SqlServer.dll
+/Users/vinhngo/STSResource/STSStudy/Linq/bin/Debug/EntityFramework.xml
+/Users/vinhngo/STSResource/STSStudy/Linq/bin/Debug/EntityFramework.SqlServer.xml
+/Users/vinhngo/STSResource/STSStudy/Linq/obj/Debug/Linq.csprojAssemblyReference.cache
+/Users/vinhngo/STSResource/STSStudy/Linq/obj/Debug/Linq.csproj.CoreCompileInputs.cache
+/Users/vinhngo/STSResource/STSStudy/Linq/obj/Debug/Linq.csproj.CopyComplete
+/Users/vinhngo/STSResource/STSStudy/Linq/obj/Debug/Linq.exe
+/Users/vinhngo/STSResource/STSStudy/Linq/obj/Debug/Linq.pdb
+/Users/vinhngo/STSResource/STSStudy/Linq/obj/Debug/Linq.Migrations.addStudent.resources
+/Users/vinhngo/STSResource/STSStudy/Linq/obj/Debug/Linq.csproj.GenerateResource.cache
+/Users/vinhngo/STSResource/STSStudy/Linq/obj/Debug/Linq.Migrations.addGrades.resources

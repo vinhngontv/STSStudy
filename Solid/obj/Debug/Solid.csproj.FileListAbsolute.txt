@@ -1,0 +1,6 @@
+/Users/vinhngo/STSResource/STSStudy/Solid/bin/Debug/Solid.exe
+/Users/vinhngo/STSResource/STSStudy/Solid/bin/Debug/Solid.pdb
+/Users/vinhngo/STSResource/STSStudy/Solid/obj/Debug/Solid.csprojAssemblyReference.cache
+/Users/vinhngo/STSResource/STSStudy/Solid/obj/Debug/Solid.csproj.CoreCompileInputs.cache
+/Users/vinhngo/STSResource/STSStudy/Solid/obj/Debug/Solid.exe
+/Users/vinhngo/STSResource/STSStudy/Solid/obj/Debug/Solid.pdb
